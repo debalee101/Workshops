@@ -3,7 +3,7 @@
 The folders within each workshop-folder shall contain a separate README file with the description of the assigned tasks and contents.
 </em>
 
-## Causal Inference Part I
+### Causal Inference Part I
 
 [Find the link to an upcoming session of the workshop here](https://www.mixtapesessions.io/session/ci_I_sept3) (The contents might be modified by the author)
 
