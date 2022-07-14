@@ -6,7 +6,7 @@ Load data from the following url: `https://raw.github.com/scunning1975/mixtape/m
 
 Rebecca Thornton's paper [The Demand for, and Impact of, Learning HIV Status](https://www.rebeccathornton.net/wp-content/uploads/2019/08/Thornton-AER2008.pdf) at *AER* evaluated an experiment in rural Malawi which gave cash incentives for people to follow-up and learn their HIV test result. Thornton’s total sample was 2,901 participants. Of those, 2,222 received any incentive at all. 
 
-Variable descriptions are available in the [codebook](codebook.pdf)
+Variable descriptions are available in the [codebook](thornton codebook.pdf)
 
 
 The variable `any` is an indicator variable for if the participant received *any* incentive. The variable `got` denotes that the individual went and *got* their test result information.
