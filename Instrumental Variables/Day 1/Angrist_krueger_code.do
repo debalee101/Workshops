@@ -27,7 +27,7 @@ cap ssc install ivreg2
 
 //Data setup
 
-use https://github.com/debalee101/Workshops/blob/c1b7950c7e311d7e4da9a5343d29d7dab2f35f72/Instrumental%20Variables/Day%201/Data/angrist_krueger.dta, replace
+use "https://github.com/debalee101/Workshops/blob/main/Instrumental%20Variables/Day%201/Data/angrist_krueger.dta?raw=true", replace
 clear all
 use angrist_krueger, clear
 forval q=1/4 {
