@@ -1,4 +1,4 @@
-# Mixtape IV Workshop: Coding Lab 2
+# IV Workshop: Coding Lab 2, Day 2
 
 A walk through some standard judge IV analyses using data from Stevenson (2018): Stevenson leverages the quasi-random assignment of 8 judges (magistrates) in Philadelphia to study the effects pretrial detention on several outcomes, including whether or not a defendant subsequently pleads guilty.
 
