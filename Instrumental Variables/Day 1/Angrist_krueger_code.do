@@ -26,10 +26,10 @@ cap ssc install ivreg2
 */
 
 //Data setup
-
+*Loading the data:
 use "https://github.com/debalee101/Workshops/blob/main/Instrumental%20Variables/Day%201/Data/angrist_krueger.dta?raw=true", replace
-clear all
-use angrist_krueger, clear
+
+*Generating the quarter of birth
 forval q=1/4 {
 	gen qob_`q'=(qob==`q')
 }
